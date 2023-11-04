@@ -1,5 +1,6 @@
-### Olá! Eu sou Lílian Vieira!
+### Olá! Me Chamo Lílian Vieira!
 
+- 🙋🏻‍♀️ Desenvolvedora Web
 - 🌱 Estudando C#
 - 😄 Pronouns: ela/dela
 
@@ -16,17 +17,14 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/liliiannvm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lilian-vieira-moura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:lilianv528@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 </div>
 
 ##
 
-<div>
-  <a href="https://github.com/Lilianvieiramoura>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilianvieiramoura&layout=donut-vertical">
+<div align="center">
+<img width=400px src="https://github-readme-stats.vercel.app/api?username=Lilianvieiramoura&show_icons=true&theme=transparent" alt="Vic-Stars" />
+<img width=350px src="https://github-readme-stats.vercel.app/api/top-langs?username=Lilianvieiramoura&show_icons=true&locale=en&layout=compact" alt="Lilian-Langs" />
 </div>
 
   
