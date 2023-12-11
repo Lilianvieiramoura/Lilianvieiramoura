@@ -1,4 +1,4 @@
-### Olá! Sou Chamo Lílian Vieira!
+### Olá! Sou Lílian Vieira!
 
 - 🙋🏻‍♀️ Desenvolvedora Web
 - 🌱 Estudando C#
