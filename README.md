@@ -1,6 +1,6 @@
 ### Olá! Sou Lílian Vieira!
 
-- 🙋🏻‍♀️ Desenvolvedora Web
+- 🙋🏻‍♀️ Desenvolvedora Web FullStack
 - 🌱 Estudando C#
 - 😄 Pronouns: ela/dela
 
@@ -23,8 +23,11 @@
 ##
 
 <div align="center">
-<img width=400px src="https://github-readme-stats.vercel.app/api?username=Lilianvieiramoura&show_icons=true&theme=transparent" alt="Vic-Stars" />
+<img width=400px src="https://github-readme-stats.vercel.app/api?username=Lilianvieiramoura&show_icons=true&theme=transparent" alt="Lilian-Stars" />
 <img width=350px src="https://github-readme-stats.vercel.app/api/top-langs?username=Lilianvieiramoura&show_icons=true&locale=en&layout=compact" alt="Lilian-Langs" />
 </div>
+
+## Meu Portfólio
+## Lilianvieira.github.io <-
 
   
