@@ -3,7 +3,7 @@
 - 🙋🏻‍♀️ Desenvolvedora Web FullStack
 - 🌱 Estudando C#
 - 😄 Pronouns: ela/dela
-- 🌐 https://lilianvieira.vercel.app/
+- 🌐 https://lilianvieira.vercel.app/ - Em construção
 
 - <div style="display: inline_block"><br>
   <img align="center" alt="Lilian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
