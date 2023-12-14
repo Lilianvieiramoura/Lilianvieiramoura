@@ -18,8 +18,7 @@
 ##
 
 <div align="center">
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lilianvieiramoura&count_private=true&show_icons=true&theme=radical" /> </p>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilianvieiramoura&langs_count=10&count_private=true&theme=dracula&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lilianvieiramoura&count_private=true&show_icons=true&theme=radical" />
 </div>
 
 <div align="center" style="display: inline_block"><br>
