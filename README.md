@@ -14,16 +14,11 @@
   <img align="center" alt="Lilian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/lilian-vieira-moura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 ##
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lilianvieiramoura&include_all_commits=true&show_icons=true&theme=dracula&count_private=true"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lilianvieiramoura&count_private=true&show_icons=true&theme=radical" /> </p>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilianvieiramoura&langs_count=10&count_private=true&theme=dracula&layout=compact"/>
 </div>
 
