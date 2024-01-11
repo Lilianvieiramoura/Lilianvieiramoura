@@ -3,6 +3,7 @@
 - 🙋🏻‍♀️ Desenvolvedora Web FullStack
 - 🌱 Estudando C#
 - 😄 Pronouns: ela/dela
+- 👩‍🔬 Ánalise e Desenvolvimento de Sistemas - Em andamento
 - 🌐 https://lilian-portfolio.vercel.app/ - Em construção
   
 ##
