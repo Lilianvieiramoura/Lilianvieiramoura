@@ -2,8 +2,7 @@
 
 - 🙋🏻‍♀️ Desenvolvedora Web FullStack
 - 😄 Pronouns: ela/dela
-- 👩‍🎓 Análise e Desenvolvimento de Sistemas - Em andamento
-- 🌐 https://lilian-portfolio.vercel.app/ - Em construção
+- 👩‍🎓 Análise e Desenvolvimento de Sistemas - Cursando
   
 ##
 
