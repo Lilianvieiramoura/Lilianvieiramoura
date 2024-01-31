@@ -14,6 +14,8 @@
 <p><img width=40% style="margin-top:10px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lilianvieiramoura&show_icons=true&theme=radical&title_color=ff3898&text_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="yasgmin" /></p>
  </div>
 
+  ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <div align="center" style="display: inline_block"><br>
   <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'>
   <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'>
@@ -29,6 +31,8 @@
   <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL'>
   <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt='Express.js'>
 </div>
+
+
 
 
   
