@@ -1,8 +1,6 @@
 ### Olá! Sou Lílian Vieira!
 
-- 🙋🏻‍♀️ Desenvolvedora Web FullStack
 - 😄 Pronouns: ela/dela
-- 👩‍🎓 Análise e Desenvolvimento de Sistemas - Cursando
   
 ##
 
