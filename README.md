@@ -1,6 +1,6 @@
 ### Olá! Sou Lílian Vieira!
 
-- Cursando Análise e Desenvolvimento de Sistemas 2/5
+- Cursando Análise e Desenvolvimento de Sistemas 3/5
 - 😄 Pronouns: ela/dela
   
 ##
